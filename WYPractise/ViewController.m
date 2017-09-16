@@ -195,5 +195,12 @@
     return UIEdgeInsetsZero;
 }
 
+- (void)testgitTower{
+    NSLog(@"git-tower-test");
+}
+
+
+
+
 
 @end
